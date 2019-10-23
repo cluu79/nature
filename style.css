@@ -1,0 +1,19 @@
+/* Global fonts */
+
+/* font-family: 'Alegreya Sans SC', sans-serif; This is a primary font
+font-family: 'Source Sans Pro', sans-serif; this is a secondary font*/ 
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; }
+
+html {
+  /* 1rem = 10pixels */
+  font-size: 62.5%; }
+
+body {
+  box-sizing: border-box; }
+
